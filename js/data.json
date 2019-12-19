@@ -1,0 +1,106 @@
+[
+    {
+        "name": "Polar Ignite Pink rose S",
+        "picture": "../img/Polar_Ignite_Pink_rose_S.jpg",
+        "description": "Polar Ignite - это водонепроницаемые фитнес-часы с усовершенствованным пульсометром и встроенным GPS",
+        "oldPrice": "6 499 грн",
+        "newPrice": "5 999 грн.",
+        "category": "running"
+    },
+    {
+        "name": "Polar M430 GREEN",
+        "picture": "../img/M430_frontleft_green_HR_147.jpg",
+        "description": "Polar M430 - это часы с GPS-навигацией, что покажут частоту сердечных сокращений прямо с запястья",
+        "oldPrice": "6 300 грн.",
+        "newPrice": "4 406 грн.",
+        "category": "running"
+    },
+    {
+        "name": "Polar M600 White",
+        "picture": "../img/Polar_M600_White.jpg",
+        "description": "Используя Polar M600, вы получаете практичность Wear OS от Google ™ и мощность спортивных функций Polar",
+        "oldPrice": "6 800 грн.",
+        "newPrice": "5 775 грн.",
+        "category": "running"
+    },
+    {
+        "name": "Polar V800 RED HR",
+        "picture": "../img/Polar_V800_RED_HR.jpg",
+        "description": "V800 от Polar - это продвинутые часы для разных видов спорта с функцией GPS",
+        "oldPrice": "12 600 грн.",
+        "newPrice": "8 980 грн.",
+        "category": "running"
+    },
+    {
+        "name": "Polar Ignite Black M/L",
+        "picture": "../img/Polar_Ignite_Black.jpg",
+        "description": "Polar Ignite - это водонепроницаемые фитнес-часы с усовершенствованным пульсометром на запястье и встроенным GPS",
+        "oldPrice": "5 575 грн.",
+        "newPrice": "5 025 грн.",
+        "category": "running"
+    },
+    {
+        "name": "Polar Vantage M Red M/L",
+        "picture": "../img/Polar Vantage M Red.jpg",
+        "description": "Polar Vantage M – универсальные фитнес часы для многоборья с GPS для всех, кто любит устанавливать рекорды",
+        "oldPrice": "7 789 грн.",
+        "newPrice": "6 800 грн.",
+        "category": "running"
+    },
+    {
+        "name": "Polar Ignite Yellow M/L",
+        "picture": "../img/Polar Ignite Yellow.jpg",
+        "description": "Polar Ignite - это водонепроницаемые фитнес-часы с усовершенствованным пульсометром на запястье и встроенным GPS",
+        "oldPrice": "6 499 грн.",
+        "newPrice": "5 999 грн.",
+        "category": "cycling"
+    },
+    {
+        "name": "Polar Ignite Black M/L",
+        "picture": "../img/vantage-v_frontleft_blue_hr168.jpg",
+        "description": "Polar Vantage V — часы для спорта и многоборья премиум-класса",
+        "oldPrice": "14 019 грн.",
+        "newPrice": "12 750 грн.",
+        "category": "cycling"
+    },
+    {
+        "name": "Polar Vantage V Orange M/L",
+        "picture": "../img/polar-vantage-v-orange-1.jpg",
+        "description": "Vantage V — часы для спорта и многоборья премиум-класса",
+        "oldPrice": "14 019 грн.",
+        "newPrice": "12 750 грн.",
+        "category": "cycling"
+    },
+    {
+        "name": "Polar A370 BLUE M/L",
+        "picture": "../img/A370_frontleft_blue_HR125.jpg",
+        "description": "Polar A370 - это спортивный водостойкий фитнес-трекер, который помогает оставаться на пульсе 24/7",
+        "oldPrice": "4 388 грн.",
+        "newPrice": "3 703 грн.",
+        "category": "fitness"
+    },
+    {
+        "name": "Polar A370 RUBY S",
+        "picture": "../img/A370_frontleft_ruby_Speed-distance_mi.jpg",
+        "description": "Polar A370 - это спортивный водостойкий фитнес-трекер, который помогает оставаться на пульсе 24/7",
+        "oldPrice": "4 388 грн.",
+        "newPrice": "3 703 грн.",
+        "category": "fitness"
+    },
+    {
+        "name": "Polar A370 WHITE M/L",
+        "picture": "../img/Polar A370 WHITE M-L.jpg",
+        "description": "Polar A370 - это спортивный водостойкий фитнес-трекер, который помогает оставаться на пульсе 24/7",
+        "oldPrice": "4 388 грн.",
+        "newPrice": "3 703 грн.",
+        "category": "fitness"
+    },
+    {
+        "name": "Polar A370 WHITE S",
+        "picture": "../img/Polar A370 WHITE S.jpg",
+        "description": "Polar A370 - это спортивный водостойкий фитнес-трекер, который помогает оставаться на пульсе 24/7",
+        "oldPrice": "4 388 грн.",
+        "newPrice": "3 703 грн.",
+        "category": "fitness"
+    }
+]
