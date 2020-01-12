@@ -49,7 +49,7 @@ validateForms('#consultation-form');
 validateForms('#order form');
 validateForms('#consultation form');
 
-$('input[name=phone]').mask("+38 (999) 999-9999");      
+$('input[name=phone]').mask("+38 (999) 999-9999");
 
 //Smooth scroll and page up
 $(window).scroll(function() {
