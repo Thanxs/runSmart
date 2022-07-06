@@ -12,7 +12,7 @@
     "bootstrap": "^4.4.1",
     "gulp": "^4.0.2",
     "jquery": "^3.4.1",
-    "jquery-validation": "^1.19.1",
+    "jquery-validation": "^1.19.5",
     "jquery.maskedinput": "^1.4.1",
     "popper.js": "^1.16.0",
     "slick-carousel": "^1.8.1",
